@@ -28,4 +28,5 @@ data manipulation and querying using SQL.
 This portfolio is meant to show my understanding of SQL fundamentals and my ability
 to write clean, readable queries to answer data-related questions.
 
-More advanced topics (aggregate functions, joins, etc.) will be added as I progress.
+Aggregate functions (COUNT, SUM, AVG, MIN, MAX), GROUP BY, and HAVING
+have now been added with practical examples.
