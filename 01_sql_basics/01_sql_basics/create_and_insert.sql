@@ -1,9 +1,9 @@
 -- Creating a table to store order data
 
 CREATE TABLE orders (
-  order_id INTEGER,
-  customer_name TEXT,
-  amount INTEGER,
+  order_id INT,
+  customer_name VARCHAR(100),
+  amount DECIMAL(10,2),
   order_date DATE
 );
 
